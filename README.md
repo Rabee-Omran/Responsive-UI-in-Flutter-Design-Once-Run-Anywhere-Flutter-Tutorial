@@ -15,4 +15,3 @@ Welcome to this comprehensive Flutter tutorial, where you’ll learn how to crea
 
 * [Video Link](https://youtu.be/Whi09XnIm_8)
 
-git push -u origin main
